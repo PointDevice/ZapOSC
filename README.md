@@ -5,6 +5,7 @@ ZapOSC is a lightweight application to control openshock devices from OSC events
 
 ---
 Build with meson
+
 requires gtk3 meson ninja gcc
 
 ```sh

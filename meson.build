@@ -1,5 +1,5 @@
 project('ZapOSC', 'c')
-gtkdep = dependency('gtk3')
+gtkdep = dependency('gtk+-3.0')
 
 ZapOSC_src = [ 
   'main.c',
